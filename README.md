@@ -48,4 +48,4 @@ pregroups.draw(diagram, figsize=(23, 4), fontsize=12)
 ```
 
 Feel free to explore and experiment with the provided code to deepen your understanding of Quantum Natural Language Processing!
-```
+
